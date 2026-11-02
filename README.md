@@ -1,8 +1,8 @@
-# yizhiweb.top — 102 privacy-first browser tools
+# yizhiweb.top — 108 privacy-first browser tools
 
 **Live site:** <https://yizhiweb.top/>
 
-yizhiweb.top is a static collection of 102 online tools for text, data, developers,
+yizhiweb.top is a static collection of 108 online tools for text, data, developers,
 images, dates and everyday calculations. Every tool runs entirely in the browser:
 input and files are processed locally, there is no account system, and there is no
 server-side processing.
@@ -30,8 +30,9 @@ the opposite approach:
   base64, URL encoding, HTML entities, Unicode/UTF-8 inspectors, Morse, Braille,
   NATO alphabet, transliteration, diacritics.
 - **Developer** — JSON/YAML/TOML/XML conversion, SQL formatter, regex tester, JWT
-  decoder, cron expression generator, IPv4 subnet calculator, TOTP, hashes/HMAC,
-  text diff, CSV/JSON/table conversion.
+  decoder, cron expression generator, IPv4 subnet calculator, TOTP, MD5/SHA hashes,
+  text diff, CSV/JSON/table conversion, UUID v4/v7, and sandboxed HTML/CSS/JS,
+  JavaScript, TypeScript, Python, Lua and SQL playgrounds.
 - **Images & files** — compressor with a target-size search, resizer, cropper, format
   converter, watermark, EXIF reader, favicon/ICO, QR and barcode generators, SVG
   optimizer and rasterizer.
@@ -73,12 +74,17 @@ The full workflow and the known limits are published at
 - All tools: <https://yizhiweb.top/tools/>
 - Methodology: <https://yizhiweb.top/methodology/>
 - Guides: <https://yizhiweb.top/guides/>
+- Build log: <https://yizhiweb.top/build-log/>
+- Russian transliteration: <https://yizhiweb.top/guides/russian-transliteration-standards/>
+- Cheque amounts in words: <https://yizhiweb.top/guides/writing-cheque-amounts/>
 
 ## Status
 
 Live and actively maintained. The public roadmap is about indexing, content depth
-and real usage, not page count: the site already has 162 content pages and the next
-milestone is getting them crawled and read.
+and real usage, not page count: the site already has 172 content pages (including
+38 guides and a first-person build log) and the next milestone is getting them
+crawled and read. The build log records the bugs found, the fixes, and how each was
+verified.
 
 ## License
 
