@@ -77,12 +77,14 @@ The full workflow and the known limits are published at
 - Build log: <https://yizhiweb.top/build-log/>
 - Russian transliteration: <https://yizhiweb.top/guides/russian-transliteration-standards/>
 - Cheque amounts in words: <https://yizhiweb.top/guides/writing-cheque-amounts/>
+- JSON formatter vs validator vs viewer: <https://yizhiweb.top/guides/json-formatter-vs-validator-vs-viewer/>
+- MD5 vs SHA-256: <https://yizhiweb.top/guides/md5-vs-sha256/>
 
 ## Status
 
 Live and actively maintained. The public roadmap is about indexing, content depth
-and real usage, not page count: the site already has 172 content pages (including
-38 guides and a first-person build log) and the next milestone is getting them
+and real usage, not page count: the site already has 175 content pages (including
+41 guides and a first-person build log) and the next milestone is getting them
 crawled and read. The build log records the bugs found, the fixes, and how each was
 verified.
 
